@@ -1,2 +1,2 @@
 # ColonelAlchemist
-Game for LD42
+Game for LD41
