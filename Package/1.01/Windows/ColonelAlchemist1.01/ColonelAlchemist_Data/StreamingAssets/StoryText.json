@@ -1,0 +1,272 @@
+{
+  "items": [
+    {
+      "key": "story1",
+      "value": [
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Attention! Colonel, we got a situation!"
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "Yes! ma'am, but why did you send me a spoon?"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Because country A just broke through our border and accused us of storing chemical weapons! What a nonsense!"
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "Understood! But why spoon..."
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "NO BUT! Can you see that pot? Use it to destroy our enemies!"
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "But..."
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "NO!! BUT!! Grab one barrel to deploy soldiers by dropping them into that pot! And use your spoon to stir them to the battlefield(Press A&D as fast as you can)! "
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "If you start to stir, you can not deploy soldiers anymore until you stir all of them in the pot to the battlefield, Understood?! Commander out."
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "Yes! Ma'ma! "
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "........................ (+_+)?"
+        }
+      ]
+    },
+    {
+      "key": "story2",
+      "value": [
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Nice work! Colonel! But we got another problem.Our enemy is too strong to fight only with the infantry!"
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "Masaka(＃°Д°)"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "What? Never mind, And we will start to deploy our armored forces!"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Remeber, they must coordinate with infantry to keep in top shape! The perfect ratio is tank to soldier 1:2. Keep that in mind, or you can look at the top to know what is your forces' statement."
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "If you can keep ratio state on perfect before you stir, it will double your army power! Commander out."
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "TANK=====(￣▽￣*)b"
+        }
+
+      ]
+    },
+    {
+      "key": "story3",
+      "value": [
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "That is a tough fight...But we survive anyway."
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "Thanks to your command, ma'am!"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Don't be happy too soon, they sent their air forces just an hour ago, and we must send ours."
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "ε=ε=ε=(~￣▽￣)~"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "What? What's wrong with you today? Never mind."
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "ο(=•ω＜=)ρ⌒☆"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "You got the authority to send some jets, but remember you must keep the ratio too. The best ratio of  jet : tank : soldier is 1 : 3 : 6, keep that in mind, understood?"
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "Yes, ma'am!"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Commander out."
+        }
+      ]
+    },
+    {
+      "key": "story4",
+      "value": [
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Well done, soldier! Country A is scared now, keep fighting back and make them silence! Maybe we should accuse them of storing chemical weapons..."
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "I don't think that is a good idea, ma'am!"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Just a joking! Don't be so serious!"
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "(╯‵□′)╯︵┻━┻"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "..."
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "..."
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Keep fighting, Commander out."
+        }
+      ]
+    },
+    {
+      "key": "story5",
+      "value": [
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "Yeah! Good Stir!"
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "Thank you, ma'ma!"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "We struck them hard! It looks the next fight will be our last fight today!"
+        },
+        {
+          "speaker": "Colonel",
+          "animation": "idle",
+          "text": "(≧∀≦)ゞ"
+        },
+        {
+          "speaker": "Commander-in-chief ON AIR",
+          "animation": "idle",
+          "text": "GO! To win your glory soldier! Commander out."
+        }
+      ]
+    },
+    {
+      "key": "ending1",
+      "value": [
+        {
+          "speaker": "Sound of Mysterious",
+          "animation": "idle",
+          "text": "And then you lost your battle. They broke through your border and headed over to your capital. Three days later, they \"found\" some chemical weapons in an empty depot."
+        },
+        {
+          "speaker": "Sound of Mysterious",
+          "animation": "idle",
+          "text": "Bad end: You Lost. Click to rechallenge."
+        }
+      ]
+    },
+    {
+      "key": "ending2",
+      "value": [
+        {
+          "speaker": "Sound of Mysterious",
+          "animation": "idle",
+          "text": "You win the war. But you feel something wrong in your head. Suddenly you are summoned before the Gate... "
+        },
+        {
+          "speaker": "Sound of Mysterious",
+          "animation": "idle",
+          "text": "After you recover your consciousness, you decide to leave the army. Head to A country and become a state alchemist. Aiming for the Philosopher's Stone."
+        },
+        {
+          "speaker": "Sound of Mysterious",
+          "animation": "idle",
+          "text": "Good End?: Fullmetal Alchemist."
+        },
+
+        {
+          "speaker": "VSakuya",
+          "animation": "idle",
+          "text": "Thanks for your playing my first work! It is my honor if you enjoy this game! I have no time to make credits, so that's all! Thanks again! ヾ(≧▽≦*)o"
+        }
+
+      ]
+    },
+    {
+      "key": "ending3",
+      "value": [
+        {
+          "speaker": "Sound of Mysterious",
+          "animation": "idle",
+          "text": "After you recover your consciousness, you find yourself standing in an empty white space with some black lines."
+        },
+        {
+          "speaker": "Sound of Mysterious",
+          "animation": "idle",
+          "text": "Hidden end: Artifical Idiot. Click to rechallenge."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\L_DiagManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\L_GameManager.cs" Line="80" Column="5" />
+      <File FileName="Assets\Scripts\L_DiagManager.cs" Line="114" Column="27" />
+      <File FileName="Assets\Scripts\L_ShakingObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\L_StirringSpoon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\L_DropItem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\L_PotChecker.cs" Line="14" Column="25" />
+      <File FileName="Assets\Scripts\L_SwitchRatioStat.cs" Line="35" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="F:\Unity\LD42\Assets\Scripts\L_PotChecker.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
